@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 👨‍💻 All of my projects are available at [https://62e29884ee766.site123.me/](https://62e29884ee766.site123.me/)
-
 - 💬 Ask me about **Java, Cloud and Cyber Security**
 
 - 📫 How to reach me **bhattacharya_ananya@yahoo.com**
