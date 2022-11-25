@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... Foodie and love travelling
 Amateur Guitarist
-Current language that I am learning: Spanish
-♛ Up for a chess game? 
+Current language that I am learning: Spanish 
 -->
