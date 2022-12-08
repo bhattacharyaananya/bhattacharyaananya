@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattacharyaananya&label=Profile%20views&color=0e75b6&style=flat" alt="bhattacharyaananya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pseudoface_" target="blank"><img src="https://img.shields.io/twitter/follow/pseudoface_?logo=twitter&style=for-the-badge" alt="pseudoface_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Oxananya" target="blank"><img src="https://img.shields.io/twitter/follow/Oxananya?logo=twitter&style=for-the-badge" alt="Oxananya" /></a> </p>
 
 - 🔭 I’m currently working on **Automatic Number Plate Recongition Using Machine Learning**
 
