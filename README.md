@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ananya Bhattacharya</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/71810962/233962675-55bd4cfd-cc15-4000-83c6-9695060e102b.png)
- ">
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/71810962/233964279-6ac6b25d-3fb7-4671-926c-65307642d040.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattacharyaananya&label=Profile%20views&color=0e75b6&style=flat" alt="bhattacharyaananya" /> </p>
 
