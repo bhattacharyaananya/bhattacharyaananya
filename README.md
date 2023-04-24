@@ -3,20 +3,17 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif ">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattacharyaananya&label=Profile%20views&color=0e75b6&style=flat" alt="bhattacharyaananya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Oxananya" target="blank"><img src="https://img.shields.io/twitter/follow/Oxananya?logo=twitter&style=for-the-badge" alt="Oxananya" /></a> </p>
-
-- 🔭 I’m currently working on **Automatic Number Plate Recongition Using Machine Learning**
+- 🔭 I’m currently working on **new projects**
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 💬 Ask me about **Java, Cloud and Cyber Security**
+- 💬 Ask me about **Tech 👨🏻‍💻, Astrophysics 🌌, **
 
-- 📫 How to reach me **bhattacharya_ananya@yahoo.com**
+- 📫 How to reach me ** Keep reading and scrolling, you'll know where to find me😉**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **aut viam inveniam aut facium😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
