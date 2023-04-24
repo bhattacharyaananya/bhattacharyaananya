@@ -13,8 +13,6 @@
 
 - 📫 How to reach me : Keep reading and scrolling, you'll know where to find me😉
 
-- 😄 Pronouns: She/her 👩
-
 - ⚡ Fun fact **aut viam inveniam aut facium😎**
 
 
