@@ -1,7 +1,4 @@
- #Ananya Bhattacharya <img src="https://raw.githubusercontent.com/bhattacharyaananya/bhattacharyaananya/master/assets/gifs/Hi.gif" width="30px">
-
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/bhattacharyaananya/bhattacharyaananya/master/assets/gifs/nothing.gif" />
-
+ <h1 align="center">Hi 👋, I'm Ananya Bhattacharya</h>
 
 <h3 align="center">A passionate Software Developer from India</h3>
 
