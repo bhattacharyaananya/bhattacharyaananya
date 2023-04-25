@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ananya Bhattacharya <img src="https://raw.githubusercontent.com/bhattacharyaananya/bhattacharyaananya/master/assets/gifs/Hi.gif" width="30px"></h1>
+ #Ananya Bhattacharya<img src="https://raw.githubusercontent.com/bhattacharyaananya/bhattacharyaananya/master/assets/gifs/Hi.gif" width="30px"></h1>
+
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/bhattacharyaananya/bhattacharyaananya/master/assets/gifs/nothing.gif" />
+
+
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/jy84ooas89SNJXSOgN/giphy.gif?cid=ecf05e47k5kwz4r7km9grbtqdc3y3dir5zekmfw9sa9g4e3o&rid=giphy.gif&ct=g">
