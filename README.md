@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhattacharyaananya&hide_border=true" alt="bhattacharyaananya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhattacharyaananya&hide_border=true" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhattacharyaananya&theme=dark&show_icons=true)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhattacharyaananya&hide_border=true" /></p>
