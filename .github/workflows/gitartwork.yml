@@ -9,10 +9,10 @@ name: gitartwork from a contribution graph
      runs-on: windows-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: ananya/gitartwork@v1
+       - uses: bhattacharyaananya/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: bhattacharyaananya
             # Text on contribution graph 
             text: ANANYA
-       - uses: ananya/simple-push-action@v1
+       - uses: bhattacharyaananya/simple-push-action@v1
