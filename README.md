@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Ananya Bhattacharya</h>
- <br />
+ <br /> <br />
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+Developer+from+India" alt="Typing SVG" /></a></h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
