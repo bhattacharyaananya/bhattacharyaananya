@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Ananya Bhattacharya</h>
  
- <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+Developer+from+India" alt="Typing SVG" /></a></h3>
-
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=A+Passionate+Developer+from+India" alt="Typing SVG" /></a>
+ 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattacharyaananya&label=Profile%20views&color=0e75b6&style=flat" alt="bhattacharyaananya" /> </p>
