@@ -13,7 +13,7 @@
 
 - 💬 Ask me about : Tech 👨🏻‍💻 & Astrophysics 🌌 
 
-- 📫 How to reach me : Keep reading and scrolling, you'll know where to find me😉
+- 📫 How to reach me:**Keep reading and scrolling, you'll know where to find me😉**
 
 - ⚡ Fun fact **aut viam inveniam aut facium😎**
 
