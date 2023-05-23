@@ -24,7 +24,7 @@
       
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhattacharyaananya&hide_border=true" alt="bhattacharyaananya" /></p>
 
-![Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=bhattacharyaananya&theme=default&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhattacharyaananya&theme=default&hide_border=true)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhattacharyaananya&hide_border=true" /></p>
 
