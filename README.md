@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ananya Bhattacharya</h>
  
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=A+Passionate+Developer+from+India <br />;A+Warm+Learner;Interested+in+Astrophysics;A+Fun+Lover" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=A+Passionate+Developer+from+India;A+Warm+Learner;Interested+in+Astrophysics;A+Fun+Lover" alt="Typing SVG" /></a></h3>
  
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
