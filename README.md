@@ -22,7 +22,7 @@
       ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
       ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</p>
       
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhattacharyaananya&hide_border=true" alt="bhattacharyaananya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhattacharyaananya&hide_border=true" alt="bhattacharyaananya"/</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhattacharyaananya&theme=default&hide_border=true)
 
