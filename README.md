@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Ananya Bhattacharya <img align="right" alt="coding" width="100" src="https://nickhericks.github.io/hand-wave-animation/"></h>
+ <h1 align="center">Hi, I'm Ananya Bhattacharya <img align="right" alt="coding" width="50" src="https://nickhericks.github.io/hand-wave-animation/"></h>
  <link rel="stylesheet" href="wave.css">
  
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bookman+old+style&pause=1000&color=EE7F23&center=true&vCenter=true&width=435&lines=A+Passionate+Developer+from+India;A+Warm+Learner;A+Self+Learner;A+Fun+Lover" alt="Typing SVG" /></a></h3>
