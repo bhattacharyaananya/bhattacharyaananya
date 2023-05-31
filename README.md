@@ -25,6 +25,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhattacharyaananya&theme=default&hide_border=true)
 
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhattacharyaananya&hide_border=true"/></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhattacharyaananya&hide_border=true"/></p>
 
 
