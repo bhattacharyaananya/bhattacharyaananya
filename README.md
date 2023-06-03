@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on new projects✍️
 
-- 🌱 I’m currently learning :*** AI & ML🤖***
+- 🌱 I’m currently learning : AI & ML🤖
 
-- 💬 Ask me about : *Tech 👨🏻‍💻 & Astrophysics 🌌 *
+- 💬 Ask me about : Tech 👨🏻‍💻 & Astrophysics 🌌 
 
-- 📫 How to reach me : **Keep reading and scrolling, you'll know where to find me😉**
+- 📫 How to reach me : Keep reading and scrolling, you'll know where to find me😉
 
 - ⚡ Fun fact **aut viam inveniam aut facium😎**
 
