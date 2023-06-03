@@ -23,7 +23,7 @@
       
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhattacharyaananya&hide_border=true&hide_progress=true" alt="bhattacharyaananya"/</p>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattacharyaananya&layout=compact)](https://github.com/bhattacharyaananya/github-readme-stats)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhattacharyaananya&theme=default&hide_border=true)
 
