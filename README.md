@@ -1,4 +1,5 @@
-![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif)
+![MasterHead](![image](https://github.com/bhattacharyaananya/bhattacharyaananya/assets/71810962/67007ec7-d6e9-457b-acff-008b1580ac7c)
+)
  <h1 align="center">Hi, I'm Ananya Bhattacharya  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h>
  <link rel="stylesheet" href="wave.css">
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bookman+old+style&pause=1000&color=EE7F23&center=true&vCenter=true&width=435&lines=A+Passionate+Developer+from+India;A+Warm+Learner;A+Self+Learner;A+Fun+Lover" alt="Typing SVG" /></a></h3>
