@@ -30,6 +30,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhattacharyaananya&hide_border=true"/></p>
 
- ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/34220e95746151.5e9ecde696cb0.gif)
-
+ 
 
