@@ -1,7 +1,7 @@
 
  <h1 align="center">Hi, I'm Ananya Bhattacharya  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h>
  <link rel="stylesheet" href="wave.css"> 
-<p align="center"><img src="![MasterHead](https://cdn.weasyl.com/static/media/7b/fd/3c/7bfd3ca38b05f745b218f11fb5efd7dc715059ed9ee327ed6003b9178474a6c9.gif)"></p>
+<p align="center"><img src="https://cdn.weasyl.com/static/media/7b/fd/3c/7bfd3ca38b05f745b218f11fb5efd7dc715059ed9ee327ed6003b9178474a6c9.gif"></p>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bookman+old+style&pause=1000&color=EE7F23&center=true&vCenter=true&width=435&lines=A+Passionate+Developer+from+India;A+Warm+Learner;A+Self+Learner;A+Fun+Lover" alt="Typing SVG" /></a></h3>
  
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dds1ndp-69dbc70d-57e7-42ec-b66d-ba721437c54a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGRzMW5kcC02OWRiYzcwZC01N2U3LTQyZWMtYjY2ZC1iYTcyMTQzN2M1NGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DY7OJ8ZVn92YMhsPJXJXBZmEF9lT6vuplqchQehNEIY">
