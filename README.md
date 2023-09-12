@@ -25,11 +25,11 @@
       ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
       
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/bhattacharyaananya/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhattacharyaananya&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/bhattacharyaananya/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bhattacharyaananya" />
 </a>
 
