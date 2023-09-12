@@ -25,6 +25,6 @@
       ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattacharyaananya&layout=donut-vertical)](https://github.com/bhattacharyaananya/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/bhattacharyaananya/github-readme-stats)
