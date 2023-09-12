@@ -25,12 +25,5 @@
       ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
       
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhattacharyaananya&hide_border=true&hide_progress=true" alt="bhattacharyaananya"/</p>
 
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhattacharyaananya&theme=default&hide_border=true)
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhattacharyaananya&hide_border=true"/></p>
-
- 
 ![](https://raw.githubusercontent.com/bhattacharyaananya/github-stats/master/generated/overview.svg#gh-light-mode-only)
