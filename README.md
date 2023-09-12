@@ -25,5 +25,4 @@
       ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
       
-
-![](https://raw.githubusercontent.com/bhattacharyaananya/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattacharyaananya&layout=donut-vertical)](https://github.com/bhattacharyaananya/github-readme-stats)
