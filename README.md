@@ -26,8 +26,5 @@
       ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
       
-<a href="https://github.com/bhattacharyaananya/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhattacharyaananya&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 
