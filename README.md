@@ -5,8 +5,6 @@
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/V2hvIEFtIEk/karasha.png" width="200" alt="Who Am I">
 </h2>
 
- <h1 align="center">Hi, I'm Ananya Bhattacharya  <img src="![image](https://github.com/bhattacharyaananya/bhattacharyaananya/assets/71810962/b203fa3c-e85d-4331-8408-13f68acc8e09)
-" width="28"></h>
  <link rel="stylesheet" href="wave.css"> 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bookman+old+style&pause=1000&color=EE7F23&center=true&vCenter=true&width=435&lines=A+Passionate+Developer+from+India;A+Warm+Learner;A+Self+Learner;A+Fun+Lover" alt="Typing SVG" /></a></h3>
  
