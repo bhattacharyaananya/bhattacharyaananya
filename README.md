@@ -1,5 +1,10 @@
 <p align="center"><img src="https://cdn.weasyl.com/static/media/7b/fd/3c/7bfd3ca38b05f745b218f11fb5efd7dc715059ed9ee327ed6003b9178474a6c9.gif"></p>
 
+<!---------------------------------------------------------- Who Am I ❓------------------------------------------------------->
+<h2 align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/V2hvIEFtIEk/karasha.png" width="200" alt="Who Am I">
+</h2>
+
  <h1 align="center">Hi, I'm Ananya Bhattacharya  <img src="![image](https://github.com/bhattacharyaananya/bhattacharyaananya/assets/71810962/b203fa3c-e85d-4331-8408-13f68acc8e09)
 " width="28"></h>
  <link rel="stylesheet" href="wave.css"> 
