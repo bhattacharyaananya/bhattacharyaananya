@@ -1,4 +1,3 @@
-<p align="center"><img src="https://cdn.weasyl.com/static/media/7b/fd/3c/7bfd3ca38b05f745b218f11fb5efd7dc715059ed9ee327ed6003b9178474a6c9.gif"></p>
 
 <!---------------------------------------------------------- Who Am I ❓------------------------------------------------------->
 <h2 align="center">
