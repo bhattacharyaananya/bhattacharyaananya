@@ -21,7 +21,7 @@
 - 👨‍💻 Passionate About:- CTF, OSINT & Music & Sports.
 - ⚔️ Constant training, Recon, breach, secure and fortifying cyberdef.
 - ⚡ Fact:- **aut viam inveniam aut facium😎**<br>
-- 🎖️ Top 1% (out of 4M+ users) on [TryHackMe](https://tryhackme.com/p/bhattacharyaananya).
+- 🎖️ Top 1% (out of 4M+ users) on [TryHackMe](https://tryhackme.com/p/ps3ud0ny4).
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ananya-bhattacharya-ab2644208/)**
 <br>
 
