@@ -18,7 +18,6 @@
 - 🔭 I’m currently working on my inner-engineering.<br>
 - 🌱 I’m currently learning Quantam Forensic using Blockchain Technology, would you like to collaborate? <br>
 - 💬 Ask & Discuss me about:- Tech 👨🏻‍💻 & Astrophysics 🌌.<br>
-- 👨‍💻 Passionate About:- CTF, OSINT & Music & Sports.
 - ⚔️ Constant training, Recon, breach, secure and fortifying cyberdef.
 - ⚡ Fact:- **aut viam inveniam aut facium😎**<br>
 - 🎖️ Top 1% (out of 4M+ users) on [TryHackMe](https://tryhackme.com/p/ps3ud0ny4).
