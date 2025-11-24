@@ -46,10 +46,15 @@
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhattacharyaananya&theme=github_dark" /><br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asb1o8&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhattacharyaananya&theme=synthwave-84&true&hide_border=true" />
  </div>
 </div>
 <br>
+
+<p align="center">
+    <a href="http://s01.flagcounter.com/more/hOw"><img src="https://s01.flagcounter.com/count2/hOw/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_16/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" alt="Typing SVG" /> 
+ </a> 
+ </p>
 
 
 <p align="center">
