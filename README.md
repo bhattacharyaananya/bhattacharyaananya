@@ -36,6 +36,8 @@
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhattacharyaananya&theme=github_dark" /><br>
   
+
+
 <!---------------------------------------------------------- Social Accounts ------------------------------------------------------->
 ## 🌐 Socials:
 <p align="left">
