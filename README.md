@@ -11,21 +11,28 @@
 </p>
  
 
-
 <!---------------------------------------------------------- About Section ------------------------------------------------------->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arajput108&label=Profile%20views&color=00FF00&style=flat" alt="arajput108" /> </p>
 
 
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me:
 - 🔭 I’m currently working on my inner-engineering.<br>
-- 🌱 I’m currently learning Bug Hunting, would you like to collaborate? <br>
-- 💬 Ask & Discuss me about:- CyberSec, Geopolitics, Defense Affairs & History.<br>
-- 👨‍💻 Passionate About:- CTF, Geopolitics, Defense Affairs, History, OSINT.
+- 🌱 I’m currently learning Quantam Forensic using Blockchain Technology, would you like to collaborate? <br>
+- 💬 Ask & Discuss me about:- CyberSec, Cyber Forenics & History.<br>
+- 👨‍💻 Passionate About:- CTF, OSINT & Music.
 - ⚔️ Constant training, Recon, breach, secure and fortifying cyberdef.
-- ⚡ Fact:- I scan, therefore I find.<br>
-- 🎖️ Top 2% (out of 4M+ users) on [TryHackMe](https://tryhackme.com/p/KaalBhairav1O8).
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/)**
+- ⚡ Fact:- **aut viam inveniam aut facium😎**<br>
+- 🎖️ Top 1% (out of 4M+ users) on [TryHackMe](https://tryhackme.com/p/bhattacharyaananya).
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ananya-bhattacharya-ab2644208/)**
 <br>
+
+<!---------------------------------------------------------- Social Accounts ------------------------------------------------------->
+## 🌐 Socials:
+<p align="left">
+<a href="https://x.com/0xggh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sureshdsk" height="25" width="30" /></a>
+<a href="https://medium.com/@0xggh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaaL_bh4iraV" height="20" width="30" /></a>  
+ <a href="https://discord.com/channels/@0xggh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vajra93000" height="30" width="40" /></a>
+</p><br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
