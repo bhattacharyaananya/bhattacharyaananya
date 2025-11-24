@@ -31,6 +31,11 @@
       ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
       ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
-      
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&pause=1000&color=00FF13&center=true&width=435&lines=%E0%A4%86%E0%A4%AA%E0%A4%95%E0%A5%87+%E0%A4%86%E0%A4%97%E0%A4%AE%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+!!+%F0%9F%99%8F;Thank+you+for+visiting+!!" alt="Typing SVG" />
+  </a>
+</p>
 
 
