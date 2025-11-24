@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on my inner-engineering.<br>
 - 🌱 I’m currently learning Quantam Forensic using Blockchain Technology, would you like to collaborate? <br>
 - 💬 Ask & Discuss me about:- Tech 👨🏻‍💻 & Astrophysics 🌌.<br>
-- ⚔️ Constant training, Dark web crawler for OSINT, Threat Intelligence.
+- ⚔️ Constant training, Dark web crawler for OSINT, Threat Intelligence🤖.
 - ⚡ Fact:- **aut viam inveniam aut facium😎**<br>
 - 🎖️ Top 1% (out of 4M+ users) on [TryHackMe](https://tryhackme.com/p/ps3ud0ny4).
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ananya-bhattacharya-ab2644208/)**
