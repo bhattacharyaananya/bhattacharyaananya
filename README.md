@@ -35,10 +35,9 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://x.com/0xggh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sureshdsk" height="25" width="30" /></a>
-<a href="https://medium.com/@0xggh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaaL_bh4iraV" height="20" width="30" /></a>  
+<a href="https://medium.com/@0xggh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0xggh" height="20" width="30" /></a>  
  <a href="https://discord.com/channels/@0xggh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vajra93000" height="30" width="40" /></a>
 </p><br>
-
 
 <!---------------------------------------------------------- GitHub Stats -------------------------------------------------------->
 # 📊 GitHub Stats:
@@ -55,7 +54,6 @@
     <a href="http://s01.flagcounter.com/more/hOw"><img src="https://s01.flagcounter.com/count2/hOw/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_16/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" alt="Typing SVG" /> 
  </a> 
  </p>
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
