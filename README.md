@@ -43,7 +43,7 @@
 <!---------------------------------------------------------- GitHub Stats -------------------------------------------------------->
 # 📊 GitHub Stats:
 <div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asb1o8&theme=github_dark" /><br>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhattacharyaananya&theme=github_dark" /><br>
   
 
 
