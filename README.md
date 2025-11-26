@@ -16,7 +16,7 @@
 
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me:
 - 🔭 I’m currently working on my inner-engineering.<br>
-- 🌱 I’m currently learning Quantam Forensic using Blockchain Technology, would you like to collaborate? <br>
+- 🌱 I’m currently learning Quantam Forensic using Blockchain Technology, Would you like to collaborate? <br>
 - 💬 Ask & Discuss me about:- Tech 👨🏻‍💻 & Astrophysics 🌌.<br>
 - ⚔️ Constant training, Dark web crawler for OSINT, Threat Intelligence🤖.
 - ⚡ Fact:- **aut viam inveniam aut facium😎**<br>
