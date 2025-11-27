@@ -1,13 +1,10 @@
 
 <!---------------------------------------------------------- Who Am I ❓------------------------------------------------------->
 <h2 align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/V2hvIEFtIEk/karasha.png" width="200" alt="WhoAmI" <img src="https://raw.githubusercontent.com/swapnanildutta/swapnanildutta/master/assets/gifs/Hi.gif" width="30px">
+  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/V2hvIEFtIEk/karasha.png" width="200" alt="WhoAmI">
 </h2>
 
- <!---------------------------------------------------------- Typing SVGs ------------------------------------------------------->
-<p align="center">
-  <a href="https://github.com/arajput108"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF13&center=true&vCenter=true&width=435&lines=Security+Researcher;OSINT+Explorer;CTF+Player;Red+Teamer" alt="Typing SVG" align="center"/></a> 
-</p>
+
  
 <!---------------------------------------------------------- About Section ------------------------------------------------------->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arajput108&label=Profile%20views&color=00FF00&style=flat" alt="arajput108" /> </p>
