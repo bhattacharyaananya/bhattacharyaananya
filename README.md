@@ -39,6 +39,8 @@
  
 <br>
 
+![](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-summary-card-output/solarized/0-profile-details.svg)
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&pause=1000&color=00FF13&center=true&width=435&lines=Thank+you+for+visiting+!!++%F0%9F%99%8F" alt="Typing SVG"/>
