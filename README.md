@@ -19,7 +19,7 @@
 - ⚡ Fact:- **aut viam inveniam aut facium😎**<br>
 - 🎖️ Top 1% (out of 4M+ users) on [TryHackMe](https://tryhackme.com/p/ps3ud0ny4).
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ananya-bhattacharya-ab2644208/)**
-<br>
+  
 
 ![](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-summary-card-output/solarized/0-profile-details.svg)
 
